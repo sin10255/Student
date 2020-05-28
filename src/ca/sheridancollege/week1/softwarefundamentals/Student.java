@@ -24,6 +24,7 @@ public class Student {
 
     /**
      * Set the value of name
+     Cheema
      *
      * @param name new value of name
      */
